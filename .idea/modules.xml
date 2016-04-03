@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Neurotrack.iml" filepath="$PROJECT_DIR$/Neurotrack.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/videojournal.iml" filepath="$PROJECT_DIR$/videojournal.iml" />
     </modules>
