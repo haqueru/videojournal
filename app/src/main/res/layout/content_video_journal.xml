@@ -23,6 +23,15 @@
         app:mcv_selectionColor="#00F"
         android:paddingBottom="0dp" />
 
+    <VideoView
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/videoList"
+        android:visibility="gone"
+        />
+
     <ListView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

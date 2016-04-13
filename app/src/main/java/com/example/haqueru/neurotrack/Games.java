@@ -58,9 +58,14 @@ public class Games extends AppCompatActivity {
                                     int position, long id) {
                 // TODO Auto-generated method stub
                //switch (position) {
-                    //startActivity(new Intent(getApplicationContext(),Read.class));
-                   //case 2: startActivity(new Intent(getApplicationContext(),SimonSays.class));
-                   startActivity(new Intent(getApplicationContext(),VideoJournal.class));
+//                if (position == 1) {
+//                    startActivity(new Intent(getApplicationContext(), Read.class));
+//                }
+//                if (position==3){
+                    startActivity(new Intent(getApplicationContext(),VideoJournal.class));
+//                }
+                   //case 2:startActivity(new Intent(getApplicationContext(),SimonSays.class));
+
                //}
 
 
